@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Ahmed Elesily
+- 👀 I’m interested in Software Engineering and Artificial Intelligence
+- 🌱 I’m currently learning Web Development
+- 📫 You can reach me via @Telegram https://t.me/AhmedElesily
